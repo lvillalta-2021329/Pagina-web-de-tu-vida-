@@ -1,0 +1,113 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+header{
+    background-color: #23376d;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+#menu{
+    background-color: rgb(233, 223, 223);
+}
+
+#menu ul li{
+    display: block;
+    float: left;
+    border: 2px solid  #23376d;
+    
+}
+
+#menu ul li a{
+    padding: 15px;
+    color: rgb(11, 127, 221);
+    display: block;
+}
+#menu ul li a:hover{
+    background-color:  #23376d;
+    color: rgb(15, 14, 14);
+}
+
+.clearfix {
+    float: none;
+    clear: both;
+}
+
+#contenido{
+    padding: 20px;
+    border: 4px solid #0cc715;
+}
+
+.div-center {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.descripcion{
+    font-size: 25px;
+    text-align: center;
+    margin: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Arial, Helvetica, sans-serif,
+     'Trebuchet MS', sans-serif;
+     font-style: italic;
+     font-weight: bold;
+}
+
+.descripcion1{
+    font-size: 50px;
+    text-align: center;
+    margin: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', calibri,
+     'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    color: #23376d;
+}
+
+
+.columna {
+    display: table-cell;
+    padding: 5px;
+}
+
+
+footer{
+    background-color: #23376d;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
+#contenido-ct{
+    margin: 25px; 
+    
+}
+
+.parrafo-ct {
+    color: rgb(10, 8, 8);
+    font-family: "Trebuchet", "Lucida Sans Unicode", "Lucida Grande", Arial, sans-serif;
+    margin: 25px;
+
+    
+}
+.imag-carreras {
+    width: 300px;
+    text-align: center;
+   
+    
+}
+
+
+
